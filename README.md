@@ -39,7 +39,7 @@ chi-square test in R, for comparison with the Python version.
 Run it from inside the `r-scripts/` folder (it references the dataset as
 `../data/diabetes.csv`).
 
-## Notes on this cleanup
+<-- ## Notes on this cleanup
 
 The code and results are unchanged. A few regression cells in
 `02_linear_regression_modeling.ipynb` reference variables (`X2`, `Y`)
@@ -47,3 +47,4 @@ that are not defined within the visible code of that cell — this reflects
 the original notebook's interactive execution order (some variables were
 created in an earlier run of the kernel) and has been left exactly as it
 was, including its original output.
+-->
